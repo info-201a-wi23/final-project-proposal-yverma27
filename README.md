@@ -13,6 +13,8 @@ Give your project a concise, interesting title that summarizes the entirety of y
 
 ### Authors
 
+Yuvika Verma (yverma@uw.edu)
+
 Names of your team members and contact information (email addresses).
 ### Date
 
@@ -22,6 +24,8 @@ Spring 2024
 No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
 
 ## Keywords
+
+movies and tv shows, ratings, Netflix, popularity 
 
 3-5 keywords that summarize your project.
 (e.g., "Keywords: human physiology; bicycle exercise; Gen Z; times-series data")
