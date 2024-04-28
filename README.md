@@ -14,9 +14,8 @@ Analyzing TV Shows and Movies on Netflix Based on Popularity
 Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
 
 ### Authors
-Jolie Sim (jsim19@uw.edu)
-Yuvika Verma (yverma@uw.edu)
->>>>>>> 387965ddcb3857a2ba5b3792fcd8e8aaefadd1cc
+- Jolie Sim (jsim19@uw.edu)
+- Yuvika Verma (yverma@uw.edu)
 
 Names of your team members and contact information (email addresses).
 ### Date
