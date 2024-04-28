@@ -14,7 +14,7 @@ Give your project a concise, interesting title that summarizes the entirety of y
 ### Authors
 
 
-Jolie Sim (jsim19@uw.edu)
+
 Names of your team members and contact information (email addresses).
 ### Date
 
