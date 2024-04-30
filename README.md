@@ -60,6 +60,7 @@ The streaming platform of Netflix is a staple in many people's lives. With it's 
 > Why was the data collected?  
 >How many observations (rows) are in your data?  
 > How many features (columns) are in the data?  
+  There are 9 columns in the dataset.
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 > What are possible limitations or problems with this data?   (at least 200 words)
 
