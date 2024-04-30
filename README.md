@@ -54,8 +54,10 @@ The streaming platform of Netflix is a staple in many people's lives. With it's 
 
 3. The Dataset
 
-> Where did you find the data? Please include a link to the data source  
-> Who collected the data?  
+> Where did you find the data? Please include a link to the data source
+  Our primary dataset for this analysis was sourced from Kaggle, a platform well-known for hosting diverse and comprehensive datasets for analytical competitions and research. The specific dataset can be accessed at(https://www.kaggle.com/code/tayyarhussain/netflix-popular-movies-data-analysis).
+> Who collected the data?
+  The data was collected by Kaggle user Tayyar Hussain, who aggregated it to facilitate data analysis projects related to streaming content on Netflix. The dataset compilation involved automated scripts to extract data from public databases such as IMDb, as well as with Netflix's publicly available information on their titles.
 > How was the data collected or generated?  
 > Why was the data collected?  
 >How many observations (rows) are in your data?  
