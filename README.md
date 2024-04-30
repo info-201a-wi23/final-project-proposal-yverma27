@@ -55,9 +55,7 @@ The streaming platform of Netflix is a staple in many people's lives. With it's 
 3. The Dataset
 
 > Where did you find the data? Please include a link to the data source
-  Our primary dataset for this analysis was sourced from Kaggle, a platform well-known for hosting diverse and comprehensive datasets for analytical competitions and research. The specific dataset can be accessed at(https://www.kaggle.com/code/tayyarhussain/netflix-popular-movies-data-analysis).
 > Who collected the data?
-  The data was collected by Kaggle user Tayyar Hussain, who aggregated it to facilitate data analysis projects related to streaming content on Netflix. The dataset compilation involved automated scripts to extract data from public databases such as IMDb, as well as with Netflix's publicly available information on their titles.
 > How was the data collected or generated?  
 > Why was the data collected?  
 >How many observations (rows) are in your data?  
@@ -67,14 +65,9 @@ The streaming platform of Netflix is a staple in many people's lives. With it's 
 
 4. Implications
 
-Data and insights from this project could help technologists as it could inform data scientists and streaming platform developers about the shifts that occur within consumer preferencs during times of crisis such as COVID-19. By seeing the trends between release years and content genres with viewer ratings and engagement can help in improving recommendation algorithms. Additionally, these findings could help platforms, such as Netflix, to adapt their content strategies in response to changing viewer engagements. Designers can utilize the insights to upgrade the presentation of various content on streaming platforms. For instance, highlighting popular content from different time periods can help enhance user engagement and satifaction. Policymakers can benefit by making informed decisions regarding content creation, distribution, and regulation. The insights can help them support the production of content that the audience feels most connect to, espeically during challenging times. It can also inform decisions around various media consumption habits and the impact it can have on mental health. Policymakers can implement guidelines in order to promote balanced content consumption habits.  
-
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
 
 5. Limitations & Challenges
-
-Some challenges that might need to be addressed with our project idea include data quality, knowing the difference between causation and correlation, being mindful of sampling bias, and accurately interpreting ratings. One major challenge includes accesssing reliable and extensive data on Netflix shows and movies, which includes information such as viewer demographic, release dates, and IMDb ratings. By having limited access to this kind of data or inaccurate information could make it hard to have an accurate analysis. Additionally, when finding the trends between the release year of a specific content and how popular it was during COVID-19, it's hard to establish causality with that information. This is because there is other factors that could influence viewer ratings and engagement, such as production quality and marketing efforts. A potential limitation that could occur with this project idea is having sampling bias, especially if the dataset consists mostly of well-known Netflix titles. This can result in skewed results, which can limit the generalizability of our analysis to a broader range of content. Lastly, being mindful that IMDb ratings is only one way to gauge viewer popularity, and doesn' fully capture the entire spectrum of viewer preferences. Therefore, it's important to include other viewer engagement metrics that can help provide more insights and further strengthen the analysis.
-
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
 
 Acknowledgements
