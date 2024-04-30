@@ -60,8 +60,10 @@ The streaming platform of Netflix is a staple in many people's lives. With it's 
   The data was collected by Kaggle user Tayyar Hussain, who aggregated it to facilitate data analysis projects related to streaming content on Netflix. The dataset compilation involved automated scripts to extract data from public databases such as IMDb, as well as with Netflix's publicly available information on their titles.
 > How was the data collected or generated?  
 > Why was the data collected?  
->How many observations (rows) are in your data?  
+>How many observations (rows) are in your data? 
+  There are 9957 rows in the dataset.
 > How many features (columns) are in the data?  
+  There are 
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 > What are possible limitations or problems with this data?   (at least 200 words)
 
