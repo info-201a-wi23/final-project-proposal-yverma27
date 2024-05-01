@@ -57,7 +57,7 @@ The streaming platform of Netflix is a staple in many people's lives. With it's 
 
 - Where did you find the data? Please include a link to the data source
 
-  - Our primary dataset for this analysis was sourced from Kaggle, a platform well-known for hosting diverse and comprehensive datasets for analytical competitions and research. The specific dataset can be accessed at(https://www.kaggle.com/code/tayyarhussain/netflix-popular-movies-data-analysis).
+  - Our primary dataset for this analysis was sourced from Kaggle, a platform well-known for hosting diverse and comprehensive datasets for analytical competitions and research. The specific dataset can be accessed at (https://www.kaggle.com/code/tayyarhussain/netflix-popular-movies-data-analysis).
 
 - Who collected the data?
 
