@@ -21,6 +21,7 @@ Give your project a concise, interesting title that summarizes the entirety of y
 ### Date
 
 Spring 2024
+
 ## Abstract
 
 The focus of our project is to see how COVID-19 influenced the popularity of various Netflix shows and movies because we would like to see how viewer engagement was during a pandemic and what was trending and valued at that time. To address the question, we will use a dataset containing information about various Netflix shows and movies to analyze their IMDb ratings and see what genres were trending at the time. One thing we need to be mindful of during this project is knowing that IMDb ratings doesn't provide a complete picture of viewer engagement with each content, as this is only one metric to gauge a specific content's popularity. 
@@ -56,15 +57,29 @@ The streaming platform of Netflix is a staple in many people's lives. With it's 
 
 3. The Dataset
 
-> Where did you find the data? Please include a link to the data source
-> Who collected the data?
-> How was the data collected or generated?  
-> Why was the data collected?  
->How many observations (rows) are in your data?  
-> How many features (columns) are in the data?  
-  There are 9 columns in the dataset.
-> What, if any, ethical questions or questions of power do you need to consider when working with this data?  
-> What are possible limitations or problems with this data?   (at least 200 words)
+- Where did you find the data? Please include a link to the data source
+Our primary dataset for this analysis was sourced from Kaggle, a platform well-known for hosting diverse and comprehensive datasets for analytical competitions and research. The specific dataset can be accessed at(https://www.kaggle.com/code/tayyarhussain/netflix-popular-movies-data-analysis).
+
+- Who collected the data?
+The data was collected by Kaggle user Tayyar Hussain, who aggregated it to facilitate data analysis projects related to streaming content on Netflix. The dataset compilation involved automated scripts to extract data from public databases such as IMDb, as well as with Netflix's publicly available information on their titles.
+
+- How was the data collected or generated?
+The dataset on popular movies and TV shows on Netflix was collected using automated data scraping techniques, targeting publicly available sources such as IMDb and Netflix's own platform. Scripts were utilized to extract a variety of data points, including titles, release dates, genres, and viewer ratings. Following extraction, the data underwent a cleaning process to ensure its accuracy and usability, which involved tasks like removing duplicates and correcting errors. 
+
+- Why was the data collected?
+This dataset was collected mainly to provide insights into the popularity metrics of movies and TV shows available on Netflix, measured through IMDb ratings and audience engagement statistics. Such datasets are important for understanding consumer behavior in the media consumption sector and for academic purposes in data science and analysis courses.
+
+- How many observations (rows) are in your data? 
+The dataset contains 9957 observations, representing different titles on Netflix.
+
+- How many features (columns) are in the data?
+The dataset on popular movies and TV shows on Netflix contains 9 features (columns). These features include critical information such as title name, release year, genre, IMDb rating, duration, cast, description, and other relevant attributes that help in analyzing the popularity and viewer engagement with the content on Netflix.
+
+- What, if any, ethical questions or questions of power do you need to consider when working with this data? 
+When working with a dataset that includes popular movies and TV shows on Netflix, it's important to consider various ethical questions and power dynamics. Privacy concerns are crucial, ensuring that no personal viewer information is indirectly revealed, in compliance with regulations like GDPR or CCPA that protect user data. The dataset's potential bias towards English-speaking and Western-centric content raises issues about cultural representation and the perpetuation of cultural dominance. This highlights the responsibility of handling data in a way that avoids influencing public opinion or promoting certain types of content unfairly. Also, there are ethical considerations regarding the commercial exploitation of data analysis, where findings could drive targeted advertising or influence Netflix’s content creation strategies, potentially leading to a homogeneous media landscape that might not reflect diverse societal needs. The power to influence content trends can cause creativity if only certain genres are favored. Finally, ethical analysis should consider who has access to this data and who benefits from the insights, ensuring equitable access among different producers and creators, thereby addressing potential power imbalances within the industry. These considerations call for a careful, responsible approach to data analysis and interpretation, ensuring outcomes are not only technically sound but also ethically justified and socially responsible. 
+
+- What are possible limitations or problems with this data?   (at least 200 words)
+The dataset focusing on Netflix's popular movies and TV shows, primarily derived from IMDb ratings, presents several limitations and potential problems that could impact the validity and generalizability of research findings. One significant limitation is the dataset's inherent bias towards Netflix-specific content, excluding titles from other streaming platforms like Amazon Prime or Hulu, which may lead to an incomplete picture of global streaming preferences. Moreover, the content is likely leaned towards English-speaking and Western-centric audiences, potentially overlooking diverse viewer habits in non-Western regions. Another critical issue is the reliance on IMDb ratings as a primary measure of popularity. These ratings can be biased, reflecting the preferences of a demographic that is more likely to rate content on IMDb, typically younger, internet-savvy viewers who do not represent the entire spectrum of Netflix's audience. This bias could distort findings, especially in understanding broader viewer preferences and behaviors. Additionally, the dataset may suffer from data completeness issues, lacking crucial variables like marketing efforts, budget allocations, or detailed viewer demographics such as age and geographic distribution. These omissions can lead to an oversimplified analysis that fails to capture the complex factors driving a show's or movie's popularity. Temporal and sampling biases present notable issues; the dataset could disproportionately represent certain times, such as more recent years where data collection methods are typically more advanced. Such biases could affect analyses of trends, particularly when assessing the effects of specific occurrences like the COVID-19 pandemic. Additionally, if the dataset mainly consists of highly rated or popular titles, it might introduce a sampling bias that depicts an overly favorable view of Netflix's catalog, thereby restricting the applicability of the findings to the broader range of available content. Having these limitations makes it necessary to adopt a careful analytical approach, using statistical methods to address biases and ensure the reliability of the findings derived from this dataset.
 
 4. Implications
 
