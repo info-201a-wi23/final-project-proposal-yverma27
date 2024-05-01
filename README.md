@@ -18,7 +18,7 @@ Spring 2024
 
 ## Abstract
 
-The focus of our project is to see how COVID-19 influenced the popularity of various Netflix shows and movies because we would like to see how viewer engagement was during a pandemic and what was trending and valued at that time. To address the question, we will use a dataset containing information about various Netflix shows and movies to analyze their IMDb ratings and see what genres were trending at the time. One thing we need to be mindful of during this project is knowing that IMDb ratings doesn't provide a complete picture of viewer engagement with each content, as this is only one metric to gauge a specific content's popularity. 
+The focus of our project is to see how COVID-19 influenced the popularity of various Netflix shows and movies because we would like to see how viewer engagement was during a pandemic and what was trending and valued at that time. To address the question, we will use a dataset containing information about various Netflix shows and movies to analyze their IMDb ratings and see what genres were trending at the time. One thing we need to be mindful of during this project is knowing that IMDb ratings don't provide a complete picture of viewer engagement with each content, as this is only one metric to gauge a specific content's popularity. 
 
 
 ## Keywords
