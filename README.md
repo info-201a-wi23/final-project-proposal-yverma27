@@ -18,7 +18,6 @@ Give your project a concise, interesting title that summarizes the entirety of y
 - Yuvika Verma (yverma@uw.edu)
 - Najat Alnuaimi (najatn@uw.edu)
 
-Names of your team members and contact information (email addresses).
 ### Date
 
 Spring 2024
